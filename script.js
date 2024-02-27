@@ -1,4 +1,4 @@
-const key = "5ab675e2d86f5f5dbbcc724e79154243"
+const key = "(key removida por segurança)"
 
 function colocarDadosNaTela(dados) {
     document.querySelector(".cidade").innerHTML = "Tempo em " + dados.name;
